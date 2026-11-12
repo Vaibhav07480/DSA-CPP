@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vaibhav07480/DSA-C-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vaibhav07480/DSA-C-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/Vaibhav07480/DSA-C-/tree/main/0217-contains-duplicate/) | Easy |
+| [0283-move-zeroes](https://github.com/Vaibhav07480/DSA-C-/tree/main/0283-move-zeroes/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Vaibhav07480/DSA-C-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vaibhav07480/DSA-C-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vaibhav07480/DSA-C-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0283-move-zeroes](https://github.com/Vaibhav07480/DSA-C-/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Vaibhav07480/DSA-C-/tree/main/0344-reverse-string/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Vaibhav07480/DSA-C-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
