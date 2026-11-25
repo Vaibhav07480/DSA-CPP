@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Vaibhav07480/DSA-C-/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Vaibhav07480/DSA-C-/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vaibhav07480/DSA-C-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/Vaibhav07480/DSA-C-/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Vaibhav07480/DSA-C-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vaibhav07480/DSA-C-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/Vaibhav07480/DSA-C-/tree/main/0217-contains-duplicate/) | Easy |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Vaibhav07480/DSA-C-/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Vaibhav07480/DSA-C-/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vaibhav07480/DSA-C-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/Vaibhav07480/DSA-C-/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Vaibhav07480/DSA-C-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Vaibhav07480/DSA-C-/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vaibhav07480/DSA-C-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
